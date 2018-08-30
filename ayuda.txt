@@ -1,0 +1,10 @@
+crear el json con la info
+  $ npm init
+intalamos express y lo guardamos en el json anterior con --save
+  $ npm i express --save
+intalamos socket.io y lo guardamos en el json anterior con --save
+  $ npm i express --save
+intalamos nodemon y lo guardamos en el json anterior con --save y -dev para el ambiente de develop
+  $ npm i nodemon --save-dev
+Iniciar server
+  $ npm start
